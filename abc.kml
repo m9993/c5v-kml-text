@@ -1,1 +1,45 @@
-<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<kml xmlns=\"http://www.opengis.net/kml/2.2\" xmlns:gx=\"http://www.google.com/kml/ext/2.2\" xmlns:kml=\"http://www.opengis.net/kml/2.2\" xmlns:atom=\"http://www.w3.org/2005/Atom\">\r\n<Document>\r\n\t<name>~GE0000uh9420.kmz</name>\r\n\t<Style id=\"sh_ylw-pushpin\">\r\n\t\t<IconStyle>\r\n\t\t\t<scale>1.3</scale>\r\n\t\t\t<Icon>\r\n\t\t\t\t<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>\r\n\t\t\t</Icon>\r\n\t\t\t<hotSpot x=\"20\" y=\"2\" xunits=\"pixels\" yunits=\"pixels\"/>\r\n\t\t</IconStyle>\r\n\t\t<BalloonStyle>\r\n\t\t</BalloonStyle>\r\n\t\t<LineStyle>\r\n\t\t\t<width>2</width>\r\n\t\t</LineStyle>\r\n\t\t<PolyStyle>\r\n\t\t\t<color>00ffffff</color>\r\n\t\t</PolyStyle>\r\n\t</Style>\r\n\t<Style id=\"sn_ylw-pushpin\">\r\n\t\t<IconStyle>\r\n\t\t\t<scale>1.1</scale>\r\n\t\t\t<Icon>\r\n\t\t\t\t<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>\r\n\t\t\t</Icon>\r\n\t\t\t<hotSpot x=\"20\" y=\"2\" xunits=\"pixels\" yunits=\"pixels\"/>\r\n\t\t</IconStyle>\r\n\t\t<BalloonStyle>\r\n\t\t</BalloonStyle>\r\n\t\t<LineStyle>\r\n\t\t\t<width>2</width>\r\n\t\t</LineStyle>\r\n\t\t<PolyStyle>\r\n\t\t\t<color>00ffffff</color>\r\n\t\t</PolyStyle>\r\n\t</Style>\r\n\t<StyleMap id=\"msn_ylw-pushpin\">\r\n\t\t<Pair>\r\n\t\t\t<key>normal</key>\r\n\t\t\t<styleUrl>#sn_ylw-pushpin</styleUrl>\r\n\t\t</Pair>\r\n\t\t<Pair>\r\n\t\t\t<key>highlight</key>\r\n\t\t\t<styleUrl>#sh_ylw-pushpin</styleUrl>\r\n\t\t</Pair>\r\n\t</StyleMap>\r\n\t<Placemark>\r\n\t\t<name>Plateau Managalas</name>\r\n\t\t<styleUrl>#msn_ylw-pushpin</styleUrl>\r\n\t\t<Polygon>\r\n\t\t\t<tessellate>1</tessellate>\r\n\t\t\t<outerBoundaryIs>\r\n\t\t\t\t<LinearRing>\r\n\t\t\t\t\t<coordinates>\r\n\t\t\t\t\t\t148.2770251827143,-8.877144291361578,0 148.0276410450009,-9.377503909909432,0 148.0473836110264,-9.479574861631326,0 148.1818200166938,-9.4958987016831,0 148.2735692963946,-9.380654372139425,0 148.3106547162199,-9.36868645040672,0 148.6483270391673,-9.368859606038242,0 148.5959180841959,-9.276041420876163,0 148.5920760988251,-9.102743816021379,0 148.4982291591822,-9.035490870250063,0 148.4590715003936,-8.905795026165508,0 148.3502016376329,-8.853020406137912,0 148.2770251827143,-8.877144291361578,0 \r\n\t\t\t\t\t</coordinates>\r\n\t\t\t\t</LinearRing>\r\n\t\t\t</outerBoundaryIs>\r\n\t\t</Polygon>\r\n\t</Placemark>\r\n</Document>\r\n</kml>
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2"
+	xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+	<Document>
+		<name>~GE0000uh9420.kmz</name>
+		<Style id="sh_ylw-pushpin">
+			<IconStyle><scale>1.3</scale><Icon><href>http: //maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon><hotSpot x="20"y="2"xunits="pixels"yunits="pixels"/></IconStyle><BalloonStyle></BalloonStyle><LineStyle><width>2</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle>
+		</Style>
+		<Style id="sn_ylw-pushpin">
+			<IconStyle><scale>1.1</scale><Icon><href>http: //maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon><hotSpot x="20"y="2"xunits="pixels"yunits="pixels"/></IconStyle><BalloonStyle></BalloonStyle><LineStyle><width>2</width></LineStyle><PolyStyle><color>00ffffff</color></PolyStyle>
+		</Style>
+		<StyleMap id="msn_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Plateau Managalas</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							148.2770251827143,-8.877144291361578,0 148.0276410450009,-9.377503909909432,0
+							148.0473836110264,-9.479574861631326,0 148.1818200166938,-9.4958987016831,0
+							148.2735692963946,-9.380654372139425,0 148.3106547162199,-9.36868645040672,0
+							148.6483270391673,-9.368859606038242,0 148.5959180841959,-9.276041420876163,0
+							148.5920760988251,-9.102743816021379,0 148.4982291591822,-9.035490870250063,0
+							148.4590715003936,-8.905795026165508,0 148.3502016376329,-8.853020406137912,0
+							148.2770251827143,-8.877144291361578,0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Document>
+</kml>
